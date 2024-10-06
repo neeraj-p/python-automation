@@ -1,1 +1,3 @@
-
+Download the Official Python Installer from https://www.python.org/downloads/
+Run the Python Installer
+Follow on-screen steps to complete the installation
