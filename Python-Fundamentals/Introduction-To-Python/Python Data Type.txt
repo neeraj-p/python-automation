@@ -1,0 +1,23 @@
+-------------------------
+3 categories of data type:
+-------------------------
+
+Basic Type:
+----------
+integer
+float
+boolean
+string
+complex
+bytes
+
+Container Type:
+--------------
+Set
+List
+Tuple 
+dictonary
+
+User-defined type:
+-----------------
+Class
